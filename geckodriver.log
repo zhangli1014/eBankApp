@@ -1,0 +1,48 @@
+1726237242084	geckodriver	INFO	Listening on 127.0.0.1:63230
+1726237244313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zhangli\\AppData\\Local\\Temp\\rust_mozprofilewO8Xnf"
+1726237244771	geckodriver	INFO	Listening on 127.0.0.1:63238
+1726237313636	geckodriver	INFO	Listening on 127.0.0.1:63758
+1726237316678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63759" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zhangli\\AppData\\Local\\Temp\\rust_mozprofilePOMx8C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726237317040	Marionette	INFO	Marionette enabled
+1726237317299	Marionette	INFO	Listening on port 63788
+WebDriver BiDi listening on ws://127.0.0.1:63759
+Read port: 63788
+1726237317501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63759/devtools/browser/68e17e6b-0a8d-494b-9609-7b6c138817b1
+1726237324690	Marionette	INFO	Stopped listening on port 63788
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1726237325485	geckodriver	INFO	Listening on 127.0.0.1:63897
+1726237328505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zhangli\\AppData\\Local\\Temp\\rust_mozprofileWPwahM"
+1726237357526	geckodriver	INFO	Listening on 127.0.0.1:64094
+1726237360589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zhangli\\AppData\\Local\\Temp\\rust_mozprofileyTH3YN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726237360891	Marionette	INFO	Marionette enabled
+1726237361101	Marionette	INFO	Listening on port 64103
+WebDriver BiDi listening on ws://127.0.0.1:64095
+Read port: 64103
+1726237361240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1726237371049	Marionette	INFO	Stopped listening on port 64103
+Dynamically enable window occlusion 1
+1726237371736	geckodriver	INFO	Listening on 127.0.0.1:64214
+1726237374787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\zhangli\\AppData\\Local\\Temp\\rust_mozprofileWRWK8L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1726237375037	Marionette	INFO	Marionette enabled
+1726237375245	Marionette	INFO	Listening on port 64223
+WebDriver BiDi listening on ws://127.0.0.1:64215
+Read port: 64223
+1726237375376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1726237384151	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1726237384934	Marionette	INFO	Stopped listening on port 64223
+Dynamically enable window occlusion 1

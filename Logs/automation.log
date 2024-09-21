@@ -1,0 +1,371 @@
+09/13/2024 17:21:40 PM-__main__-INFO-start
+09/13/2024 17:38:40 PM:INFO:start
+2024-09-13 17:50:37,853 - root - INFO - *****************Start*********************
+2024-09-13 17:50:37,853 - root - INFO - ***********Verifying home page title********
+2024-09-13 17:50:40,800 - root - INFO - ***********Home page test is passed********
+2024-09-13 17:50:42,236 - root - INFO - ***********Verifying Login page title********
+2024-09-13 17:50:46,917 - root - INFO - ***********Login page test is passed********
+2024-09-13 19:27:14,369 - root - INFO - *****************Start*********************
+2024-09-13 19:27:14,370 - root - INFO - ***********Verifying home page title********
+2024-09-13 19:27:17,547 - root - INFO - ***********Home page test is passed********
+2024-09-13 19:27:18,854 - root - INFO - ***********Verifying Login page title********
+2024-09-13 19:27:23,712 - root - INFO - ***********Login page test is passed********
+2024-09-13 22:11:08,212 - root - INFO - *****************Start*********************
+2024-09-13 22:11:08,212 - root - INFO - ***********Verifying home page title********
+2024-09-13 22:11:15,971 - root - INFO - ***********Home page test is passed********
+2024-09-13 22:11:17,422 - root - INFO - ***********Verifying Login page title********
+2024-09-13 22:11:22,163 - root - INFO - ***********Login page test is passed********
+2024-09-13 22:21:59,830 - root - INFO - *****************Start*********************
+2024-09-13 22:21:59,831 - root - INFO - ***********Verifying home page title********
+2024-09-13 22:22:04,687 - root - INFO - ***********Home page test is passed********
+2024-09-13 22:22:43,252 - root - INFO - *****************Start*********************
+2024-09-13 22:22:43,252 - root - INFO - ***********Verifying home page title********
+2024-09-13 22:22:51,048 - root - INFO - ***********Home page test is passed********
+2024-09-13 22:22:57,192 - root - INFO - ***********Verifying Login page title********
+2024-09-13 22:23:04,932 - root - INFO - ***********Login page test is passed********
+2024-09-13 22:34:14,337 - root - INFO - ***********Verifying Login page title********
+2024-09-13 22:34:14,497 - root - INFO - *****************Start*********************
+2024-09-13 22:34:14,498 - root - INFO - ***********Verifying home page title********
+2024-09-13 22:34:17,812 - root - INFO - ***********Home page test is passed********
+2024-09-13 22:34:19,278 - root - INFO - ***********Login page test is passed********
+2024-09-14 14:48:27,946 - root - INFO - *****************Start*********************
+2024-09-14 14:48:27,949 - root - INFO - ***********Verifying home page title********
+2024-09-14 14:48:27,969 - root - INFO - ***********Verifying Login page title********
+2024-09-14 14:49:44,659 - root - INFO - *****************Start*********************
+2024-09-14 14:49:44,659 - root - INFO - ***********Verifying home page title********
+2024-09-14 14:49:44,710 - root - INFO - ***********Verifying Login page title********
+2024-09-14 15:12:36,003 - root - INFO - ***********Verifying Login page title********
+2024-09-14 15:12:36,119 - root - INFO - *****************Start*********************
+2024-09-14 15:12:36,120 - root - INFO - ***********Verifying home page title********
+2024-09-14 15:12:39,235 - root - INFO - ***********Home page test is passed********
+2024-09-14 15:12:40,916 - root - INFO - ***********Login page test is passed********
+2024-09-14 15:24:38,357 - root - INFO - *****************Start*********************
+2024-09-14 15:24:38,359 - root - INFO - ***********Verifying home page title********
+2024-09-14 15:24:38,403 - root - INFO - ***********Verifying Login page title********
+2024-09-14 15:24:41,440 - root - INFO - ***********Home page test is passed********
+2024-09-14 15:24:43,046 - root - INFO - ***********Login page test is passed********
+2024-09-14 15:25:29,831 - root - INFO - *****************Start*********************
+2024-09-14 15:25:29,832 - root - INFO - ***********Verifying home page title********
+2024-09-14 15:25:29,850 - root - INFO - ***********Verifying Login page title********
+2024-09-14 17:10:07,614 - root - INFO - *****************Start*********************
+2024-09-14 17:10:07,615 - root - INFO - ***********Verifying home page title********
+2024-09-14 17:10:15,114 - root - INFO - ***********Home page test is passed********
+2024-09-14 17:10:16,679 - root - INFO - ***********Verifying Login page title********
+2024-09-14 17:10:25,469 - root - INFO - ***********Login page test is passed********
+2024-09-14 17:10:59,097 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-14 17:10:59,097 - root - INFO - ***********Verifying Login DDT title********
+2024-09-14 17:11:03,476 - root - INFO - ***********Passed********
+2024-09-14 17:14:44,032 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-14 17:14:44,033 - root - INFO - ***********Verifying Login DDT title********
+2024-09-14 17:14:48,285 - root - INFO - ***********Passed********
+2024-09-14 17:17:03,674 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-14 17:17:03,675 - root - INFO - ***********Verifying Login DDT title********
+2024-09-14 17:17:08,219 - root - INFO - ***********Passed********
+2024-09-14 17:17:10,610 - root - INFO - ***********Passed********
+2024-09-14 17:18:54,981 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-14 17:18:54,982 - root - INFO - ***********Verifying Login DDT title********
+2024-09-14 17:18:59,266 - root - INFO - ***********Passed********
+2024-09-14 17:19:01,667 - root - INFO - ***********Passed********
+2024-09-14 17:19:03,361 - root - INFO - ***********Passed********
+2024-09-14 17:19:03,361 - root - INFO - ************Login DDT Test Passed***********
+2024-09-14 17:19:03,548 - root - INFO - ************Login DDT Test End***********
+2024-09-16 09:29:26,154 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:29:30,981 - root - INFO - ****************Login successful*****************
+2024-09-16 09:29:30,981 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:29:31,440 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:29:32,341 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:29:32,343 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:30:08,027 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:30:12,835 - root - INFO - ****************Login successful*****************
+2024-09-16 09:30:12,835 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:30:13,316 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:30:24,230 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:30:24,232 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:30:37,385 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:30:42,015 - root - INFO - ****************Login successful*****************
+2024-09-16 09:30:42,015 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:30:42,509 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:30:53,459 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:30:53,461 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:34:24,840 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:34:29,858 - root - INFO - ****************Login successful*****************
+2024-09-16 09:34:29,858 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:34:30,380 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:34:41,300 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:34:41,303 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:35:55,455 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:36:00,437 - root - INFO - ****************Login successful*****************
+2024-09-16 09:36:00,437 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:36:00,923 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:36:11,936 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:36:11,938 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:36:38,011 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:36:42,903 - root - INFO - ****************Login successful*****************
+2024-09-16 09:36:42,903 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:36:43,389 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:36:54,434 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:36:54,436 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:37:40,872 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:37:45,653 - root - INFO - ****************Login successful*****************
+2024-09-16 09:37:45,653 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:37:46,151 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:37:57,130 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:39:58,233 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:40:03,176 - root - INFO - ****************Login successful*****************
+2024-09-16 09:40:03,176 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:40:03,662 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:40:14,673 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:40:14,674 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:41:11,112 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:41:16,232 - root - INFO - ****************Login successful*****************
+2024-09-16 09:41:16,232 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:41:16,728 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:41:27,753 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:41:27,755 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:41:39,981 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:41:44,975 - root - INFO - ****************Login successful*****************
+2024-09-16 09:41:44,975 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:41:45,457 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:41:56,448 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:43:33,846 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:43:38,764 - root - INFO - ****************Login successful*****************
+2024-09-16 09:43:38,764 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:43:39,254 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:43:50,302 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:43:50,305 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:44:16,379 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:44:21,386 - root - INFO - ****************Login successful*****************
+2024-09-16 09:44:21,387 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:44:21,908 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:44:32,958 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:44:32,960 - root - INFO - ***********Add new customer failed,Please fill all fields**********
+2024-09-16 09:48:33,053 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 09:48:37,693 - root - INFO - ****************Login successful*****************
+2024-09-16 09:48:37,693 - root - INFO - ***********Starting add new customer**********
+2024-09-16 09:48:38,202 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 09:48:49,657 - root - INFO - ***********Save  customer info**********
+2024-09-16 09:48:49,659 - root - INFO - ***********Add new customer passed**********
+2024-09-16 10:59:57,261 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:00:02,005 - root - INFO - ****************Login successful*****************
+2024-09-16 11:00:02,005 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:00:02,468 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:00:13,447 - root - INFO - ***********Save  customer info**********
+2024-09-16 11:00:49,082 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:00:53,920 - root - INFO - ****************Login successful*****************
+2024-09-16 11:00:53,920 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:00:54,410 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:03:01,349 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:03:06,139 - root - INFO - ****************Login successful*****************
+2024-09-16 11:03:06,139 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:03:06,612 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:03:17,783 - root - INFO - ***********Save  customer info**********
+2024-09-16 11:06:14,741 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:06:19,506 - root - INFO - ****************Login successful*****************
+2024-09-16 11:06:19,506 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:06:20,221 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:06:31,278 - root - INFO - ***********Save  customer info**********
+2024-09-16 11:07:45,643 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:07:50,102 - root - INFO - ****************Login successful*****************
+2024-09-16 11:07:50,102 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:07:50,560 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:10:37,658 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:10:42,656 - root - INFO - ****************Login successful*****************
+2024-09-16 11:10:42,656 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:10:43,126 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:11:41,604 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:11:46,441 - root - INFO - ****************Login successful*****************
+2024-09-16 11:11:46,441 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:11:46,896 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:12:34,371 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:12:39,117 - root - INFO - ****************Login successful*****************
+2024-09-16 11:12:39,117 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:12:39,584 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:13:39,432 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 11:13:46,534 - root - INFO - ****************Login successful*****************
+2024-09-16 11:13:46,534 - root - INFO - ***********Starting add new customer**********
+2024-09-16 11:13:47,055 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 11:13:54,927 - root - INFO - ***********Save  customer info**********
+2024-09-16 11:13:54,945 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:18:09,042 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 22:18:09,042 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 22:18:09,042 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 22:18:18,986 - root - INFO - ****************Login successful*****************
+2024-09-16 22:18:18,986 - root - INFO - ****************Login successful*****************
+2024-09-16 22:18:18,986 - root - INFO - ****************Login successful*****************
+2024-09-16 22:18:18,987 - root - INFO - ***********Starting add new customer**********
+2024-09-16 22:18:18,987 - root - INFO - ***********Starting add new customer**********
+2024-09-16 22:18:18,987 - root - INFO - ***********Starting add new customer**********
+2024-09-16 22:18:19,518 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 22:18:19,518 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 22:18:19,518 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 22:18:27,523 - root - INFO - ***********Save  customer info**********
+2024-09-16 22:18:27,523 - root - INFO - ***********Save  customer info**********
+2024-09-16 22:18:27,523 - root - INFO - ***********Save  customer info**********
+2024-09-16 22:18:27,545 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:18:27,545 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:18:27,545 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:18:29,036 - root - INFO - ***********Verifying Login page title********
+2024-09-16 22:18:29,036 - root - INFO - ***********Verifying Login page title********
+2024-09-16 22:18:29,036 - root - INFO - ***********Verifying Login page title********
+2024-09-16 22:18:34,531 - root - INFO - ***********Login page test is passed********
+2024-09-16 22:18:34,531 - root - INFO - ***********Login page test is passed********
+2024-09-16 22:18:34,531 - root - INFO - ***********Login page test is passed********
+2024-09-16 22:24:57,553 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 22:24:57,553 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 22:24:57,553 - root - INFO - *************Test_003_AddCustomer************
+2024-09-16 22:25:07,068 - root - INFO - ****************Login successful*****************
+2024-09-16 22:25:07,068 - root - INFO - ****************Login successful*****************
+2024-09-16 22:25:07,068 - root - INFO - ****************Login successful*****************
+2024-09-16 22:25:07,068 - root - INFO - ***********Starting add new customer**********
+2024-09-16 22:25:07,068 - root - INFO - ***********Starting add new customer**********
+2024-09-16 22:25:07,068 - root - INFO - ***********Starting add new customer**********
+2024-09-16 22:25:07,642 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 22:25:07,642 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 22:25:07,642 - root - INFO - ***********Providing  new customer info**********
+2024-09-16 22:25:15,451 - root - INFO - ***********Save  customer info**********
+2024-09-16 22:25:15,451 - root - INFO - ***********Save  customer info**********
+2024-09-16 22:25:15,451 - root - INFO - ***********Save  customer info**********
+2024-09-16 22:25:15,468 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:25:15,468 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:25:15,468 - root - INFO - ***********Add new customer passed**********
+2024-09-16 22:25:16,845 - root - INFO - ***********Verifying Login page title********
+2024-09-16 22:25:16,845 - root - INFO - ***********Verifying Login page title********
+2024-09-16 22:25:16,845 - root - INFO - ***********Verifying Login page title********
+2024-09-16 22:25:21,758 - root - INFO - ***********Login page test is passed********
+2024-09-16 22:25:21,758 - root - INFO - ***********Login page test is passed********
+2024-09-16 22:25:21,758 - root - INFO - ***********Login page test is passed********
+2024-09-17 16:03:32,203 - root - INFO - *************Test_003_AddCustomer************
+2024-09-17 16:03:32,203 - root - INFO - *************Test_003_AddCustomer************
+2024-09-17 16:03:32,203 - root - INFO - *************Test_003_AddCustomer************
+2024-09-17 16:03:36,580 - root - INFO - ****************Login successful*****************
+2024-09-17 16:03:36,580 - root - INFO - ****************Login successful*****************
+2024-09-17 16:03:36,580 - root - INFO - ****************Login successful*****************
+2024-09-17 16:03:36,580 - root - INFO - ***********Starting add new customer**********
+2024-09-17 16:03:36,580 - root - INFO - ***********Starting add new customer**********
+2024-09-17 16:03:36,580 - root - INFO - ***********Starting add new customer**********
+2024-09-17 16:03:37,082 - root - INFO - ***********Providing  new customer info**********
+2024-09-17 16:03:37,082 - root - INFO - ***********Providing  new customer info**********
+2024-09-17 16:03:37,082 - root - INFO - ***********Providing  new customer info**********
+2024-09-17 16:03:44,291 - root - INFO - ***********Save  customer info**********
+2024-09-17 16:03:44,291 - root - INFO - ***********Save  customer info**********
+2024-09-17 16:03:44,291 - root - INFO - ***********Save  customer info**********
+2024-09-17 16:03:44,309 - root - INFO - ***********Add new customer passed**********
+2024-09-17 16:03:44,309 - root - INFO - ***********Add new customer passed**********
+2024-09-17 16:03:44,309 - root - INFO - ***********Add new customer passed**********
+2024-09-17 16:03:45,800 - root - INFO - ***********Verifying Login page title********
+2024-09-17 16:03:45,800 - root - INFO - ***********Verifying Login page title********
+2024-09-17 16:03:45,800 - root - INFO - ***********Verifying Login page title********
+2024-09-17 16:03:50,189 - root - INFO - ***********Login page test is passed********
+2024-09-17 16:03:50,189 - root - INFO - ***********Login page test is passed********
+2024-09-17 16:03:50,189 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:29:18,235 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 15:29:18,235 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 15:29:18,235 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 15:29:24,564 - root - INFO - ****************Login successful*****************
+2024-09-20 15:29:24,564 - root - INFO - ****************Login successful*****************
+2024-09-20 15:29:24,564 - root - INFO - ****************Login successful*****************
+2024-09-20 15:29:24,565 - root - INFO - ***********Starting add new customer**********
+2024-09-20 15:29:24,565 - root - INFO - ***********Starting add new customer**********
+2024-09-20 15:29:24,565 - root - INFO - ***********Starting add new customer**********
+2024-09-20 15:29:25,086 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 15:29:25,086 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 15:29:25,086 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 15:29:32,507 - root - INFO - ***********Save  customer info**********
+2024-09-20 15:29:32,507 - root - INFO - ***********Save  customer info**********
+2024-09-20 15:29:32,507 - root - INFO - ***********Save  customer info**********
+2024-09-20 15:29:32,530 - root - INFO - ***********Add new customer passed**********
+2024-09-20 15:29:32,530 - root - INFO - ***********Add new customer passed**********
+2024-09-20 15:29:32,530 - root - INFO - ***********Add new customer passed**********
+2024-09-20 15:29:33,714 - root - INFO - ***********Verifying Login page title********
+2024-09-20 15:29:33,714 - root - INFO - ***********Verifying Login page title********
+2024-09-20 15:29:33,714 - root - INFO - ***********Verifying Login page title********
+2024-09-20 15:29:43,881 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:29:43,881 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:29:43,881 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:58:59,723 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 15:58:59,723 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 15:58:59,723 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 15:59:15,090 - root - INFO - ****************Login successful*****************
+2024-09-20 15:59:15,090 - root - INFO - ****************Login successful*****************
+2024-09-20 15:59:15,090 - root - INFO - ****************Login successful*****************
+2024-09-20 15:59:15,090 - root - INFO - ***********Starting add new customer**********
+2024-09-20 15:59:15,090 - root - INFO - ***********Starting add new customer**********
+2024-09-20 15:59:15,090 - root - INFO - ***********Starting add new customer**********
+2024-09-20 15:59:15,596 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 15:59:15,596 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 15:59:15,596 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 15:59:23,645 - root - INFO - ***********Save  customer info**********
+2024-09-20 15:59:23,645 - root - INFO - ***********Save  customer info**********
+2024-09-20 15:59:23,645 - root - INFO - ***********Save  customer info**********
+2024-09-20 15:59:23,668 - root - INFO - ***********Add new customer passed**********
+2024-09-20 15:59:23,668 - root - INFO - ***********Add new customer passed**********
+2024-09-20 15:59:23,668 - root - INFO - ***********Add new customer passed**********
+2024-09-20 15:59:24,806 - root - INFO - *****************Start*********************
+2024-09-20 15:59:24,806 - root - INFO - *****************Start*********************
+2024-09-20 15:59:24,806 - root - INFO - *****************Start*********************
+2024-09-20 15:59:24,806 - root - INFO - ***********Verifying home page title********
+2024-09-20 15:59:24,806 - root - INFO - ***********Verifying home page title********
+2024-09-20 15:59:24,806 - root - INFO - ***********Verifying home page title********
+2024-09-20 15:59:28,111 - root - INFO - ***********Home page test is passed********
+2024-09-20 15:59:28,111 - root - INFO - ***********Home page test is passed********
+2024-09-20 15:59:28,111 - root - INFO - ***********Home page test is passed********
+2024-09-20 15:59:29,312 - root - INFO - ***********Verifying Login page title********
+2024-09-20 15:59:29,312 - root - INFO - ***********Verifying Login page title********
+2024-09-20 15:59:29,312 - root - INFO - ***********Verifying Login page title********
+2024-09-20 15:59:34,219 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:59:34,219 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:59:34,219 - root - INFO - ***********Login page test is passed********
+2024-09-20 15:59:35,432 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-20 15:59:35,432 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-20 15:59:35,432 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-20 15:59:35,432 - root - INFO - ***********Verifying Login DDT title********
+2024-09-20 15:59:35,432 - root - INFO - ***********Verifying Login DDT title********
+2024-09-20 15:59:35,432 - root - INFO - ***********Verifying Login DDT title********
+2024-09-20 16:00:01,135 - root - INFO - ***********Passed********
+2024-09-20 16:00:01,135 - root - INFO - ***********Passed********
+2024-09-20 16:00:01,135 - root - INFO - ***********Passed********
+2024-09-20 16:06:06,760 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 16:06:06,760 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 16:06:06,760 - root - INFO - *************Test_003_AddCustomer************
+2024-09-20 16:06:22,835 - root - INFO - ****************Login successful*****************
+2024-09-20 16:06:22,835 - root - INFO - ****************Login successful*****************
+2024-09-20 16:06:22,835 - root - INFO - ****************Login successful*****************
+2024-09-20 16:06:22,835 - root - INFO - ***********Starting add new customer**********
+2024-09-20 16:06:22,835 - root - INFO - ***********Starting add new customer**********
+2024-09-20 16:06:22,835 - root - INFO - ***********Starting add new customer**********
+2024-09-20 16:06:23,470 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 16:06:23,470 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 16:06:23,470 - root - INFO - ***********Providing  new customer info**********
+2024-09-20 16:06:31,787 - root - INFO - ***********Save  customer info**********
+2024-09-20 16:06:31,787 - root - INFO - ***********Save  customer info**********
+2024-09-20 16:06:31,787 - root - INFO - ***********Save  customer info**********
+2024-09-20 16:06:31,810 - root - INFO - ***********Add new customer passed**********
+2024-09-20 16:06:31,810 - root - INFO - ***********Add new customer passed**********
+2024-09-20 16:06:31,810 - root - INFO - ***********Add new customer passed**********
+2024-09-20 16:06:32,951 - root - INFO - *****************Start*********************
+2024-09-20 16:06:32,951 - root - INFO - *****************Start*********************
+2024-09-20 16:06:32,951 - root - INFO - *****************Start*********************
+2024-09-20 16:06:32,951 - root - INFO - ***********Verifying home page title********
+2024-09-20 16:06:32,951 - root - INFO - ***********Verifying home page title********
+2024-09-20 16:06:32,951 - root - INFO - ***********Verifying home page title********
+2024-09-20 16:06:36,901 - root - INFO - ***********Home page test is passed********
+2024-09-20 16:06:36,901 - root - INFO - ***********Home page test is passed********
+2024-09-20 16:06:36,901 - root - INFO - ***********Home page test is passed********
+2024-09-20 16:06:38,112 - root - INFO - ***********Verifying Login page title********
+2024-09-20 16:06:38,112 - root - INFO - ***********Verifying Login page title********
+2024-09-20 16:06:38,112 - root - INFO - ***********Verifying Login page title********
+2024-09-20 16:06:57,704 - root - INFO - ***********Login page test is passed********
+2024-09-20 16:06:57,704 - root - INFO - ***********Login page test is passed********
+2024-09-20 16:06:57,704 - root - INFO - ***********Login page test is passed********
+2024-09-20 16:06:58,921 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-20 16:06:58,921 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-20 16:06:58,921 - root - INFO - ***********Test_002_DDT_Login********
+2024-09-20 16:06:58,922 - root - INFO - ***********Verifying Login DDT title********
+2024-09-20 16:06:58,922 - root - INFO - ***********Verifying Login DDT title********
+2024-09-20 16:06:58,922 - root - INFO - ***********Verifying Login DDT title********
+2024-09-20 16:07:03,676 - root - INFO - ***********Passed********
+2024-09-20 16:07:03,676 - root - INFO - ***********Passed********
+2024-09-20 16:07:03,676 - root - INFO - ***********Passed********
+2024-09-20 16:07:06,248 - root - INFO - ***********Passed********
+2024-09-20 16:07:06,248 - root - INFO - ***********Passed********
+2024-09-20 16:07:06,248 - root - INFO - ***********Passed********
