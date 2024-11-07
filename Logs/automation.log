@@ -369,3 +369,72 @@
 2024-09-20 16:07:06,248 - root - INFO - ***********Passed********
 2024-09-20 16:07:06,248 - root - INFO - ***********Passed********
 2024-09-20 16:07:06,248 - root - INFO - ***********Passed********
+2024-11-06 19:18:05,309 - root - INFO - ***********Verifying Login page title********
+2024-11-06 19:18:07,528 - root - INFO - ***********Login page test is passed********
+2024-11-06 19:19:43,800 - root - INFO - ***********Verifying Login page title********
+2024-11-06 19:19:45,826 - root - INFO - ***********Login page test is passed********
+2024-11-06 19:23:07,384 - root - INFO - *****************Start*********************
+2024-11-06 19:23:07,385 - root - INFO - ***********Verifying home page title********
+2024-11-06 19:23:09,460 - root - INFO - ***********Home page test is passed********
+2024-11-06 19:24:43,026 - root - INFO - *****************Start*********************
+2024-11-06 19:24:43,026 - root - INFO - ***********Verifying home page title********
+2024-11-06 19:24:44,567 - root - INFO - ***********Home page test is passed********
+2024-11-06 19:24:46,526 - root - INFO - ***********Verifying Login page title********
+2024-11-06 19:24:48,711 - root - INFO - ***********Login page test is passed********
+2024-11-06 19:54:00,673 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 19:54:00,673 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 19:55:34,630 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 19:55:34,631 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 19:56:01,945 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 19:56:01,946 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 19:57:37,724 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 19:57:37,725 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 19:59:38,713 - root - INFO - ***********Verifying Login page title********
+2024-11-06 19:59:40,940 - root - INFO - ***********Login page test is passed********
+2024-11-06 19:59:55,586 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 19:59:55,587 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:00:27,711 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:00:27,711 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:00:43,107 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:00:43,107 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:01:55,648 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:01:55,649 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:02:23,081 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:02:23,081 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:02:34,528 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:02:34,529 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:04:23,665 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:04:23,666 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:06:33,030 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:06:33,030 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:07:33,976 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:07:33,976 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:08:14,534 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:08:14,535 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:08:16,564 - root - INFO - ***********Passed********
+2024-11-06 20:08:17,810 - root - INFO - ***********Passed********
+2024-11-06 20:09:57,862 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:09:57,864 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:10:05,283 - root - INFO - ***********Passed********
+2024-11-06 20:16:40,002 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:16:40,002 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:16:49,159 - root - INFO - ***********Passed********
+2024-11-06 20:19:35,467 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:19:35,468 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:19:50,384 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:19:50,384 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:20:11,094 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:20:11,094 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:22:26,175 - root - INFO - ***********Test_002_DDT_Login********
+2024-11-06 20:22:26,175 - root - INFO - ***********Verifying Login DDT title********
+2024-11-06 20:22:28,881 - root - INFO - ***********Passed********
+2024-11-06 20:22:30,164 - root - INFO - ***********Passed********
+2024-11-06 20:22:31,037 - root - INFO - ***********Passed********
+2024-11-06 20:22:31,037 - root - INFO - ************Login DDT Test Passed***********
+2024-11-06 20:22:31,086 - root - INFO - ************Login DDT Test End***********
+2024-11-06 20:29:11,564 - root - INFO - *************Test_003_AddCustomer************
+2024-11-06 20:29:13,730 - root - INFO - ****************Login successful*****************
+2024-11-06 20:29:13,730 - root - INFO - ***********Starting add new customer**********
+2024-11-06 20:29:14,018 - root - INFO - ***********Providing  new customer info**********
+2024-11-06 20:29:20,658 - root - INFO - ***********Save  customer info**********
+2024-11-06 20:29:20,679 - root - INFO - ***********Add new customer passed**********

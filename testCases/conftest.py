@@ -5,12 +5,16 @@ from pytest_metadata.plugin import metadata_key
 @pytest.fixture()
 def setup(browser):
     options = webdriver.ChromeOptions()
+    '''
     if browser=='chrome':
         driver = webdriver.Chrome()
         print("Launching Chrome browser..............")
     elif browser=='firefox':
         driver = webdriver.Firefox()
         print("Launching firefox browser..............")
+    '''
+    driver = webdriver.Chrome()
+    print("Launching Chrome browser..............")
     return driver
 
 def pytest_addoption(parser):

@@ -6,12 +6,18 @@ from selenium import webdriver
 from pageObjects.ebankLoginPage import LoginPage
 from utilities.readConfig import ReadConfig
 from utilities.customerLogger import LogGen
+import allure
 
+@allure.title("test")
+@allure.description("hello")
+@allure.severity(allure.severity_level.NORMAL)
 class Test_001_Login:
     base_url= ReadConfig.getApplicationURL()
     username= ReadConfig.getUserName()
     password= ReadConfig.getPassword()
     logger = LogGen.loggen()
+
+
 
     @pytest.mark.regression
     def test_homePage_Title(self,setup):
@@ -54,4 +60,4 @@ class Test_001_Login:
         self.driver.close()
 
 if __name__=='__main__':
-    pytest.main(['-v','test_eBankLogin.py'])
+    pytest.main(['-v','-m regression','test_eBankLogin.py'])

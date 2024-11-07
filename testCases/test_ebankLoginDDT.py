@@ -9,7 +9,7 @@ from utilities import ExcelUtilities
 
 class Test_002_DDT_Login:
     base_url= ReadConfig.getApplicationURL()
-    path = './/TestData//LoginData.xlsx'
+    path = '..//TestData//LoginData.xlsx'
     logger = LogGen.loggen()
 
     @pytest.mark.regression
@@ -26,13 +26,16 @@ class Test_002_DDT_Login:
             self.username = ExcelUtilities.readData(self.path,'Sheet1',i,1)
             self.password = ExcelUtilities.readData(self.path, 'Sheet1', i, 2)
             self.exp = ExcelUtilities.readData(self.path, 'Sheet1', i, 3)
+            self.alert = ExcelUtilities.readData(self.path, 'Sheet1', i, 4)
             self.lp.setUserName(self.username)
             self.lp.setPassword(self.password)
             self.lp.clickLogin()
+            if self.alert=='TRUE': #登录失败的弹窗需要先关闭
+                self.driver.switch_to.alert.accept()
             act_tile = self.driver.title
             exp_title = 'Guru99 Bank Manager HomePage'
             lst_status = []
-            if act_tile==exp_title:
+            if act_tile==exp_title: #可以登录
                 if self.exp == 'Pass':
                     self.logger.info('***********Passed********')
                     lst_status.append('Pass')
@@ -61,5 +64,6 @@ class Test_002_DDT_Login:
 
         self.driver.close()
         self.logger.info('************Login DDT Test End***********')
+
 if __name__=='__main__':
-    pytest.main(['-v','test_eBankLogin.py'])
+    pytest.main(['-v','-m regression','test_eBankLoginDDT.py'])

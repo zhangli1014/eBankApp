@@ -1,7 +1,7 @@
 import configparser
 
 config = configparser.RawConfigParser()
-config.read('.\\Configurations\\config.ini')
+config.read('..\\Configurations\\config.ini')
 
 class ReadConfig():
     @staticmethod
@@ -18,3 +18,6 @@ class ReadConfig():
     def getPassword():
         password = config.get('ebank info','password')
         return password
+
+if __name__=='__main__':
+    print(ReadConfig.getApplicationURL())
